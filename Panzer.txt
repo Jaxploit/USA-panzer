@@ -1,0 +1,39 @@
+M1 Abrams
+M1A1 Abrams
+M1A2 Abrams
+M1A2C Abrams
+M2 Bradley
+M3 Bradley Cavalry Fighting Vehicle (CFV)
+M109 Paladin
+M109A6 Paladin
+M88 Hercules Recovery Vehicle
+M1126 Stryker Combat Vehicle
+M1128 Mobile Gun System (Stryker)
+M113 Armored Personnel Carrier (APC)
+M113A3 Armored Personnel Carrier (APC)
+M2A3 Bradley Fighting Vehicle
+M3A3 Bradley Fighting Vehicle
+M3A3 Bradley Cavalry Fighting Vehicle (CFV)
+M6 Linebacker (Bradley)
+M7 Bradley Fire Support Team Vehicle
+M1064 Mortar Carrier
+M901 ITV (Improved TOW Vehicle)
+M270 Multiple Launch Rocket System (MLRS)
+M142 High Mobility Artillery Rocket System (HIMARS)
+M1151 Enhanced Armament Carrier
+M1152 Enhanced Troop/Cargo/Shelter Carrier
+M1153 Enhanced Prime Mover
+M1167 Heavy Expanded Mobility Tactical Truck (HEMTT) TFFT (Tactical Fire Fighting Truck)
+M1157 Armored Security Vehicle (ASV)
+M966 HMMWV (High Mobility Multipurpose Wheeled Vehicle) TOW Carrier
+M104 Wolverine Armored Bridge Layer
+M1135 Stryker Nuclear, Biological, Chemical, Reconnaissance Vehicle (NBC RV)
+M1 Assault Breacher Vehicle (ABV)
+M88A2 Hercules Recovery Vehicle
+M60 Patton (nicht mehr aktiv im Dienst, aber historisch relevant)
+M551 Sheridan (nicht mehr aktiv im Dienst, aber historisch relevant)
+M60A3 Patton (nicht mehr aktiv im Dienst, aber historisch relevant)
+M1 Grizzly Combat Engineering Vehicle (CEV)
+M1 Panther II Remote Mine Clearing Vehicle
+M1 Panther III Remote Ordnance Neutralization System (RONS)
+M104 Wolverine Heavy Assault Bridge
